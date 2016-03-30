@@ -13,8 +13,8 @@
     	<dependency>
 		   <groupId>org.springframework.boot</groupId>
 		   <artifactId>spring-boot-starter-thymeleaf</artifactId>
-		<!--    prueba1
-        <exclusions>
+		<!--      
+        <exclusions prueba>
             <exclusion>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-starter-tomcat</artifactId>
